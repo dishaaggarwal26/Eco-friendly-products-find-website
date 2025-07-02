@@ -27,16 +27,18 @@ An informative and user-friendly website that helps users discover eco-friendly 
 ### Installation
 
 1. Clone the repository:
-
-```bash
+```bash 
 git clone https://github.com/dishaaggarwal26/Eco-friendly-products-find-website.git 
+```
 
 2. Navigate to the project folder:
+```bash
 cd Eco-friendly-products-find-website
+```
 
 3. Open index.html in your preferred browser to view the website.
 
-💻 Project Structure
+### 💻 Project Structure
 Eco-friendly-products-find-website/
 │
 ├── index.html        # Main landing page
@@ -48,14 +50,17 @@ Eco-friendly-products-find-website/
 │   └── script.js     # Custom scripts (if any)
 ├── images/           # All images and icons
 └── README.md         # Project documentation
-✨ Screenshots
+### ✨ Screenshots
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! If you'd like to improve the project or add new features:
 
 1. Fork the repository
 
-2. Create a new branch: git checkout -b feature/YourFeature
+2. Create a new branch:
+```bash 
+git checkout -b feature/YourFeature 
+```
 
 3. Commit your changes: git commit -m 'Add some feature'
 
@@ -63,23 +68,21 @@ Contributions are welcome! If you'd like to improve the project or add new featu
 
 5. Open a pull request
 
-📬 Contact
-Author: Disha Aggarwal (she/her)
+## 📬 Contact
+- Author: Disha Aggarwal (she/her)
 
-Location: New Delhi, India
+- Location: New Delhi, India
 
-Email: [aggarwaldisha26@gmail.com]
+- Email: [aggarwaldisha26@gmail.com]
 
-🌎 License
+## 🌎 License
 This project is licensed under the MIT License.
 
-⭐ Acknowledgments
-Inspiration from eco-friendly living communities
+## ⭐ Acknowledgments
+- Inspiration from eco-friendly living communities
 
-Open-source design resources
+- Open-source design resources
 
-Anyone who contributes to making the world a more sustainable place!
-
-💚 Thank you for checking
+- Anyone who contributes to making the world a more sustainable place!
 
 💚 Thank you for checking out this project! Let's build a better and greener world together. 🌿
