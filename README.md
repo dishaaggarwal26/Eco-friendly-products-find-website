@@ -2,6 +2,9 @@
 
 An informative and user-friendly website that helps users discover eco-friendly alternatives to common products. This project aims to spread awareness about sustainable living and encourage environmentally conscious choices.
 
+🔗 [Live Demo](eco-friendly-product-finder.netlify.app/)  
+📂 [Source Code](https://github.com/dishaaggarwal26/Eco-friendly-products-find-website)
+
 ## 💡 Features
 
 - ✅ Clean and modern user interface
