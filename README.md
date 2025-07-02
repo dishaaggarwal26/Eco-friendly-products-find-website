@@ -39,6 +39,7 @@ cd Eco-friendly-products-find-website
 3. Open index.html in your preferred browser to view the website.
 
 ### 💻 Project Structure
+```plaintext
 Eco-friendly-products-find-website/
 │
 ├── index.html        # Main landing page
@@ -50,6 +51,7 @@ Eco-friendly-products-find-website/
 │   └── script.js     # Custom scripts (if any)
 ├── images/           # All images and icons
 └── README.md         # Project documentation
+```
 ### ✨ Screenshots
 
 ### 🤝 Contributing
@@ -57,10 +59,7 @@ Contributions are welcome! If you'd like to improve the project or add new featu
 
 1. Fork the repository
 
-2. Create a new branch:
-```bash 
-git checkout -b feature/YourFeature 
-```
+2. Create a new branch: git checkout -b feature/YourFeature 
 
 3. Commit your changes: git commit -m 'Add some feature'
 
